@@ -7,7 +7,7 @@ Este vídeo de quase 1 minuto apresenta uma visão rápida e envolvente do poten
 - **[ChatGPT](https://chat.openai.com)** para criação e resumo do conteúdo;
 - **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 - **[Speechify](https://app.speechify.com/)** para conversão do texto em audio;
-- **[Microsoft Copilot](https://copilot.microsoft.com/images/create)** para criação do Avatar utilizado no vídeo;
+- **[Microsoft Copilot](https://copilot.microsoft.com/images/create)** para criação da imagem [1] utilizada no vídeo;
 - **[CapCut](https://www.capcut.com/pt-br/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
@@ -20,3 +20,7 @@ O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pe
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+
+
+## [1] - Imagem (avatar) gerado pelo Copilot.
+![_56dd73fb-e939-4e46-9098-483d78cc4850](https://github.com/user-attachments/assets/e54fd74b-1a61-461f-933c-eb94c3646599)
