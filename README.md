@@ -4,11 +4,11 @@
 Este vídeo de quase 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas no contexto da pesquisa (científica).
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para criação e resumo do conteúdo;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- IA Generativa **[Speechify](https://app.speechify.com/)** para conversão do texto em audio;
-- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com/images/create)** para criação do Avatar utilizado no vídeo;
-- Software **[CapCut](https://www.capcut.com/pt-br/)** para edição de vídeo.
+- **[ChatGPT](https://chat.openai.com)** para criação e resumo do conteúdo;
+- **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- **[Speechify](https://app.speechify.com/)** para conversão do texto em audio;
+- **[Microsoft Copilot](https://copilot.microsoft.com/images/create)** para criação do Avatar utilizado no vídeo;
+- **[CapCut](https://www.capcut.com/pt-br/)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. Em seguida, converti o texto para audio usando a minha voz como modelo no "Speechfy" e posteriormente, através do "D-ID" criar um avatar (gerado pelo "Copilot") virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no "CapCut".
